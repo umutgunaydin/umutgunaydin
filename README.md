@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umutgunaydin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="umutgunaydin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutgunaydin&show_icons=true&locale=en" alt="umutgunaydin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutgunaydin&theme=tokyonight&show_icons=true&locale=en" alt="umutgunaydin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutgunaydin&" alt="umutgunaydin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutgunaydin&theme=tokyonight" alt="umutgunaydin" /></p>
