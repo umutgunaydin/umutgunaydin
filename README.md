@@ -1,5 +1,5 @@
 
-<h1 align="center">Ümüt Günaydın</h1>
+<h1 align="center">Hi✋, I'm Ümüt Günaydın</h1>
 <h3 align="center">Backend Java Developer and Computer Engineering student at METU</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966">
 
