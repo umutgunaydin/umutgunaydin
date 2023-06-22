@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutgunaydin&label=Profile%20views&color=0e75b6&style=flat" alt="umutgunaydin" /> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Java** and **Spring Framework**
 
 - 📫 How to reach me **umutgunaydinoff@gmail.com**
