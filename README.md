@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=200&section=header&text=%C3%9Cm%C3%BCt%20G%C3%BCnayd%C4%B1n&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Paraboly%20%C2%B7%20METU%20CENG&descSize=18&descAlignY=58&animation=fadeIn">
-  <img alt="Ümüt Günaydın — Full-Stack Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:3b82f6,100:22d3ee&height=200&section=header&text=%C3%9Cm%C3%BCt%20G%C3%BCnayd%C4%B1n&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Paraboly%20%C2%B7%20METU%20CENG&descSize=18&descAlignY=58&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a%2C50:2563eb%2C100:06b6d4&height=200&section=header&text=%C3%9Cm%C3%BCt%20G%C3%BCnayd%C4%B1n&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Paraboly%20%C2%B7%20METU%20CENG&descSize=18&descAlignY=58&animation=fadeIn">
+  <img alt="Ümüt Günaydın — Full-Stack Software Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8%2C50:3b82f6%2C100:22d3ee&height=200&section=header&text=%C3%9Cm%C3%BCt%20G%C3%BCnayd%C4%B1n&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Paraboly%20%C2%B7%20METU%20CENG&descSize=18&descAlignY=58&animation=fadeIn">
 </picture>
 
 <p align="center">
@@ -82,4 +82,4 @@ I build software end to end: backend services, web dashboards and mobile apps, m
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/umutgunaydin/umutgunaydin/output/github-snake.svg">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:1e3a8a&height=100&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4%2C50:2563eb%2C100:1e3a8a&height=100&section=footer" width="100%" alt="" />
